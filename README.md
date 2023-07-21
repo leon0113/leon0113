@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Prisma, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://tahjib-hossain-leon0113.netlify.app/](https://tahjib-hossain-leon0113.netlify.app/)
+- 👨‍💻 My protfolio [https://tahjib-hossain-leon0113.netlify.app/](https://tahjib-hossain-leon0113.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Nodejs, Mongodb**
+- 💬 My expertises are in **Javascript, React, Nodejs, Mongodb**
 
-- 📫 How to reach me **tahjib.leon399@gmail.com**
+- 📫 Reach me at **tahjib.leon399@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
+- 📄 My resume [https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
