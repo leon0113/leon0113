@@ -1,19 +1,21 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://tahjib-hossain-leon0113.netlify.app/)
 <h1 align="center">Hi 👋, I'm Tahjib Hossain</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ5aDZ4eTF0bm95MXp3cmw0MWV5bGpkeDBzbGk4bmdmcTFmeGNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon0113&label=Profile%20views&color=0e75b6&style=flat" alt="leon0113" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Prisma, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://tahjib-hossain-leon0113.netlify.app/](https://tahjib-hossain-leon0113.netlify.app/)
+- 👨‍💻 My protfolio [https://tahjib-hossain-leon0113.netlify.app/](https://tahjib-hossain-leon0113.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Nodejs, Mongodb**
+- 💬 My expertises are in **Javascript, React, Nodejs, Mongodb**
 
-- 📫 How to reach me **tahjib.leon399@gmail.com**
+- 📫 Reach me at **tahjib.leon399@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
+- 📄 My resume [https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My handles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahjib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahjib hossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22278620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22278620" height="30" width="40" /></a>
