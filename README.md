@@ -15,7 +15,7 @@
 
 - 📄 My [Resume](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
 
-<h3 align="left">My handles:</h3>
+<h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahjib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahjib hossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22278620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22278620" height="30" width="40" /></a>
