@@ -11,7 +11,7 @@
 
 - 💬 My expertises are in **Javascript, React, Nodejs, Mongodb**
 
-- 📫 Reach me at **tahjib.leon399@gmail.com**
+- 📫 Reach me at **connect.tahjib@gmail.com**
 
 - 📄 My [Resume](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
 
