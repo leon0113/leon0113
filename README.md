@@ -33,9 +33,8 @@
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=leon0113&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leon0113&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-## ⚒ This Week I Spent My Time On
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -51,10 +50,6 @@
   <a href="https://github.com/mdsajalcse?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-
-
-<p><img align="left" height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=leon0113&show_icons=true&locale=en&layout=compact" alt="leon0113" /></p>
 <p><img align="center"  height="200" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon0113&" alt="leon0113" /></p>
 
 
