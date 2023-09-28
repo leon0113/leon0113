@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ5aDZ4eTF0bm95MXp3cmw0MWV5bGpkeDBzbGk4bmdmcTFmeGNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leon0113&label=Profile%20views&color=0e75b6&style=flat" alt="leon0113" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Prisma, PostgreSQL**
 
