@@ -49,6 +49,5 @@
   <a href="https://github.com/leon0113?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<p><img align="center"  height="200" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=leon0113&" alt="leon0113" /></p>
 
 
