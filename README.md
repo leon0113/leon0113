@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Tahjib+Hossain....;A+passionate;Full+Stack+Developer;Software+Engineer&center=true&size=30&color=61dafb">
   </a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hi!+👋;I'm+Tahjib+Hossain....;A+passionate;Full+Stack+Developer;Software+Engineer&pause=1000&color=F72E6D&background=20FF1E00&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </h1>
 <img align="right" alt="coding" width="400" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
