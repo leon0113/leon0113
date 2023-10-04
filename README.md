@@ -1,7 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hi!+👋;I'm+Tahjib+Hossain....;A+passionate;Full+Stack+Developer;Software+Engineer&pause=1000&color=F72E6D&background=20FF1E00&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
-</h1>
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72E6D&background=20FF1E00&width=435&lines=Hi+!%F0%9F%91%8B+I'm+Tahjib+Hossain;A+Passionate+Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width="400" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon0113&label=Profile%20views&color=0e75b6&style=flat" alt="leon0113" /> </p>
