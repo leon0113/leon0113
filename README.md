@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Tahjib+Hossain....;A+passionate;Full+Stack+Developer;Software+Engineer&center=true&size=30&color=61dafb">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Tahjib+Hossain....;A+passionate;Full+Stack+Developer;Software+Engineer&center=true&size=40&font_color=61dafb">
   </a>
 </h1>
 <img align="right" alt="coding" width="400" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
