@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **connect.tahjib@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link)
+- 📄 My [Resume]([https://drive.google.com/file/d/1E7p-69ZCWAjfRg3hDY2yHW_0qyTcEZW4/view?usp=drive_link](https://drive.google.com/file/d/1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH/view?usp=sharing))
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
