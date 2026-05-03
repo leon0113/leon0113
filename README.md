@@ -2,8 +2,10 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Tahjib+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Tahjib+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Software+Developer;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<img align="right" alt="coding" width="380" height="380" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <br/>
 
@@ -15,6 +17,8 @@
 <a href="mailto:connect.tahjib@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
 <a href="https://tahjib-hossain-leon0113.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://drive.google.com/uc?export=download&id=1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH"><img src="https://img.shields.io/badge/Resume-Download-28A745?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Download"/></a>
 
 </div>
 
