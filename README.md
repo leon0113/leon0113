@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Tahjib+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Software+Developer;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<img align="right" alt="coding" width="380" height="380" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
-
 <br/>
 
 <!-- Badges -->
@@ -41,6 +39,10 @@ const tahjib = {
   resume:     "https://drive.google.com/file/d/1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH/view",
 };
 ```
+
+<div align="center">
+  <img alt="coding" width="600" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
+</div>
 
 ---
 
