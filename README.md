@@ -1,55 +1,162 @@
-<h1 align="center" width="full">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&weight=800&pause=999&color=FFFD3A&background=2D8581DA&center=true&vCenter=true&random=false&width=435&height=52&lines=Hi+!%F0%9F%96%90+Nice+to+see+you;I'm+Tahjib+Hossain;A+Passionate+Full+Stack+Developer;Software+Developer;Problem+Solver" alt="Typing SVG" /></a>
-</h1>
-<img align="right" alt="coding" width="400" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leon0113&label=Profile%20views&color=0e75b6&style=flat" alt="leon0113" /> </p>
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Tahjib+%F0%9F%91%8B;Full+Stack+Developer+%7C+Problem+Solver;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Typescript, Nextjs, Prisma, PostgreSQL**
+<br/>
 
-- 👨‍💻 My [Protfolio Site](https://tahjib-hossain-leon0113.netlify.app/)
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=leon0113&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://linkedin.com/in/tahjib-hossain"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:connect.tahjib@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="https://tahjib-hossain-leon0113.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 
-- 💬 My expertises are in **Javascript, React, Nodejs, Mongodb**
-
-- 📫 Reach me at **connect.tahjib@gmail.com**
-
-- 📄 My [Resume](https://drive.google.com/file/d/1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH/view?usp=sharing)
-
-<h3 align="left">My Profiles:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahjib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahjib hossain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22278620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22278620" height="30" width="40" /></a>
-<a href="https://fb.com/tahjib hossain leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahjib hossain leon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tahjib_leon399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahjib_leon399" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tahjibleon0113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahjibleon0113" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tahjib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahjib hossain" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/skleo4a74/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skleo4a74/profile" height="30" width="40" /></a>
-  <a href="https://www.researchgate.net/profile/Tahjib-Hossain/research" target="blank"><img align="center" src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/202524/images/RG.png" alt="skleo4a74/profile" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"/> </a> </p>
-
-<h2 align="center">## ⚒ Quick Stats About Me</h2>
-
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=leon0113&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leon0113&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-
-<h2 align="center">👨‍💻 My Top Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center"><a align="left" href="https://github.com/leon0113/university-management-authService" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Digital-Market-Place&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/leon0113/React-native-Travel-booking-app" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=React-native-Travel-booking-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center"><a align="left" href="https://github.com/leon0113/Paws-Paradise" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Paws-Paradise&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/leon0113/Nextjs-Blog-app" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Nextjs-Blog-app&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const tahjib = {
+  name:       "Tahjib Hossain",
+  alias:      "leon0113",
+  role:       "Full Stack Developer",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+
+  currently:  ["TypeScript", "Next.js", "Prisma", "PostgreSQL"],
+  expertise:  ["JavaScript", "React", "Node.js", "MongoDB"],
+
+  contact:    "connect.tahjib@gmail.com",
+  portfolio:  "https://tahjib-hossain-leon0113.netlify.app/",
+  resume:     "https://drive.google.com/file/d/1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH/view",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Others
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leon0113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon0113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&count_private=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leon0113&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center"><a align="left" href="https://github.com/leon0113/university-management-authService" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=university-management-authService&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/leon0113/university-management-authService" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=university-management-authService&theme=react&border_color=61dafb&border_radius=10"></a>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/leon0113?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
+---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=leon0113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/leon0113/Digital-Market-Place">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Digital-Market-Place&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+&nbsp;
+<a href="https://github.com/leon0113/React-native-Travel-booking-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=React-native-Travel-booking-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/leon0113/Paws-Paradise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Paws-Paradise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+&nbsp;
+<a href="https://github.com/leon0113/Nextjs-Blog-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=Nextjs-Blog-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/leon0113/university-management-authService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leon0113&repo=university-management-authService&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/leon0113?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎 View All Repositories-00D9FF?style=for-the-badge&logoColor=black" alt="All Repos"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tahjib-hossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/22278620"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/tahjib_leon399"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+&nbsp;
+<a href="https://codeforces.com/profile/tahjibleon0113"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.leetcode.com/tahjib-hossain"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/skleo4a74/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.researchgate.net/profile/Tahjib-Hossain/research"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ Thanks for visiting! If you like my work, consider giving a ⭐ to my repos. ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&reversal=false" />
+
+</div>
