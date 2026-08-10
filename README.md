@@ -35,7 +35,7 @@ const tahjib = {
   expertise:  ["JavaScript", "React", "Node.js", "MongoDB"],
 
   contact:    "connect.tahjib@gmail.com",
-  portfolio:  "https://tahjib-hossain-leon0113.netlify.app/",
+  portfolio:  "https://tahjib.netlify.app/",
   resume:     "https://drive.google.com/file/d/1wx1k1XzqV5OrjXZBi2g1-ZX5YnugrelH/view",
 };
 ```
